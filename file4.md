@@ -1,2 +1,2 @@
 # Where in the world?
-# catch me at codeX.
+# catch me at CodeX.
